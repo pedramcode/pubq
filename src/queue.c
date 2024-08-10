@@ -1,4 +1,4 @@
-#include <zqueue/queue.h>
+#include <pubq/queue.h>
 
 void queue_init(queue_t* queue) {
 	queue->head = NULL;
