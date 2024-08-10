@@ -2,7 +2,7 @@
 
 Thread-safe, simple, fast and cross-platform queue data structure
 
-## Thrid-party
+## Third-party
 
 * CThreads: a cross-platform thread library [view page on github](https://github.com/PerformanC/CThreads/)
 
